@@ -53,7 +53,7 @@ export default function InfoScreen() {
               <Ionicons name='logo-github' size={34}/>
             </Pressable>
 
-            <Pressable >
+            <Pressable onPress={() => router.push('https://github.com/sergiovforesto/note-app-expo')}>
               <Ionicons name='link-outline' size={34}/>
             </Pressable>
           </View>
