@@ -2,10 +2,10 @@
 
 ## Previews images
 
-[![Image nro 1](/assets/imgs/1-n.jpg)]
-[![Image nro 2](/assets/imgs/2-n.jpg)]
-[![Image nro 3](/assets/imgs/3-n.jpg)]
-[![Image nro 4](/assets/imgs/4-n.jpg)]
+<img src="/assets/imgs/1-n.jpg" alt="Image nro 1" width="150"/>
+<img src="/assets/imgs/2-n.jpg" alt="Image nro 2" width="150"/>
+<img src="/assets/imgs/3-n.jpg" alt="Image nro 3" width="150"/>
+<img src="/assets/imgs/4-n.jpg" alt="Image nro 4" width="150"/>
 
 ## Get started
 
