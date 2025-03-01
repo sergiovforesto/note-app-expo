@@ -38,14 +38,14 @@
     "experiments": {
       "typedRoutes": true
     },
+    "owner": "mikevf",
     "extra": {
       "router": {
         "origin": false
       },
       "eas": {
-        "projectId": "f3edd334-841f-475d-9ff7-0b45d2f0c704"
+        "projectId": "151a728e-ac69-4e34-93e9-5d9f8ddede89"
       }
-    },
-    "owner": "mikevf"
+    }
   }
 }
