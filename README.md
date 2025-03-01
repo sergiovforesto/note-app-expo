@@ -16,4 +16,4 @@
 
 # APK
 
-You can install the apk in your own smartphone (android) by [downloading the note app]('./note app.apk').
+You can install the apk in your own smartphone (android) by [downloading the note app]('https://github.com/sergiovforesto/note-app-expo/blob/main/note%20app.apk').
