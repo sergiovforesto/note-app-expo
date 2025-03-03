@@ -7,5 +7,5 @@ export const getCurrentTime = () => {
         minute: '2-digit',
         hour12: true,
     };
-    return date.toLocaleDateString('es-VE', options).toString();
+    return date.toLocaleDateString('en-US', options).toString();
 };

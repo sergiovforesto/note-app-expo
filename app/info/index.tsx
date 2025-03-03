@@ -28,7 +28,7 @@ export default function InfoScreen() {
 
       
       <View style={{paddingHorizontal: 10}}>
-        <Title title='Sobre mi'/>
+        <Title title='About me'/>
 
         <View>
           <View style={style.containerImage}>

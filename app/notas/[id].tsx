@@ -128,8 +128,8 @@ export default function NotaById() {
                                 />
 
                                 <ModalAlert 
-                                    title='Eliminar Notas'
-                                    subTitle='¿Eliminar esta nota?'
+                                    title='Delete Notes'
+                                    subTitle='Do you want to delete this note?'
                                     isNote={true}
                                     transparent 
                                     showAlert={wishDelete} 
@@ -163,7 +163,7 @@ export default function NotaById() {
 
             <View style={{paddingHorizontal: 10,}}>
                 <TextInput
-                    placeholder='Titulo'
+                    placeholder='Title'
                     onChangeText={handleTituloChange}
                     value={note.titulo}
                     style={globalThemes.inputTitle}
@@ -178,7 +178,7 @@ export default function NotaById() {
 
                 <View>
                 <TextInput
-                    placeholder='Escribe tu nota aquí...'
+                    placeholder='Write your note here...'
                     onChangeText={handleTextoChange}
                     value={note.texto}
                     style={globalThemes.inputDescription}

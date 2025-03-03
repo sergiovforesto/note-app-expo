@@ -74,12 +74,12 @@ export const TareasList = ({
                 <View>
                     {item.data.length > 0 && (
                         <Text style={style.sectionTitle}>
-                            {item.key === 'no-completadas' ? 'Tareas pendientes' : 'Tareas completadas'}
+                            {item.key === 'no-completadas' ? 'Pending tasks' : 'Completed tasks'}
                         </Text>
                     )}
 
                     {item.key === 'no-completadas' && item.data.length === 0 ? (
-                        <Text style={style.emptyMessage}>No hay tareas pendientes.</Text>
+                        <Text style={style.emptyMessage}>There are no pending tasks.</Text>
                     ) : (
                         item.data.map((tarea) => (
                             <View style={style.TareaContainer} key={tarea.id}>

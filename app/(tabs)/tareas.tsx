@@ -78,7 +78,7 @@ export default function TareasScreen() {
 
       <View style={styles.container}>
 
-        <Title title='Tareas'/>
+        <Title title='Tasks'/>
 
         <View style={{marginBottom: 10}}/>
 
@@ -93,8 +93,8 @@ export default function TareasScreen() {
         
 
         <ModalAlert
-          title='Eliminar Tareas'
-          subTitle='¿Desea eliminar esta tarea?'
+          title='Delete Tasks'
+          subTitle='Do you want to delete this task?'
           isTask={true}
           transparent 
           showAlert={wishDelete} 

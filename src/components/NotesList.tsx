@@ -42,7 +42,7 @@ export default function NotesList({notes, readNotes}:Props) {
       {
         notes.length === 0 ? (
           <View style={styles.noNotesContainer}>
-            <Text style={styles.noNotesText}>No hay notas disponibles.</Text>
+            <Text style={styles.noNotesText}>There are no notes</Text>
           </View>
         ) : (
           notes.map((note: Note) => (

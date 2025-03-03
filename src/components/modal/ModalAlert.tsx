@@ -52,7 +52,7 @@ export const ModalAlert = ({
                                 },
                             ]}
                         >
-                            <Text style={style.btnText}>Cancelar</Text>
+                            <Text style={style.btnText}>Cancel</Text>
                         </Pressable>
 
                         <Pressable
@@ -72,7 +72,7 @@ export const ModalAlert = ({
                                 }
                             ]}
                         >
-                            <Text style={[style.btnText, {color: '#FF453A'}]}>Eliminar</Text>
+                            <Text style={[style.btnText, {color: '#FF453A'}]}>Delete</Text>
                         </Pressable>
                     </View>
                 </View>

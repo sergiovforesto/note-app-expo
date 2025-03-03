@@ -34,7 +34,7 @@ export const ModalMenu = ({modalVisible = false, setOpenModal, transparent = fal
                         style.deleteButton
                     ]}
                 >
-                    <Text style={style.textButton}>Eliminar</Text>
+                    <Text style={style.textButton}>Delete</Text>
                 </Pressable>
 
             </View>

@@ -52,7 +52,7 @@ export default function NotasScreen() {
         
       <View style={styles.container}>
 
-        <Title title='Notas'/>
+        <Title title='Notes'/>
 
         <View style={{marginBottom: 10}}/>
 

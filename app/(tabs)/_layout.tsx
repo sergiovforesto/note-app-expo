@@ -38,7 +38,7 @@ export default function TabLayout() {
       <Tab.Screen
         name="index"
         options={{
-          title: 'Notas',
+          title: 'Notes',
           tabBarIcon: ({ color }) => <Ionicons size={24} name="reader" color={color} />,
         }}
         component={NotasScreen}
@@ -46,7 +46,7 @@ export default function TabLayout() {
       <Tab.Screen
         name="tareas"
         options={{
-          title: 'Tareas',
+          title: 'Tasks',
           tabBarIcon: ({ color }) => <Ionicons size={24} name="checkbox" color={color} />,
         }}
         component={TareasScreen}
