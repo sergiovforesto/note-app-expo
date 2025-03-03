@@ -2,10 +2,8 @@
 
 ## Previews images
 
-<img src="/assets/imgs/1-n.jpg" alt="Image nro 1" width="150"/>
-<img src="/assets/imgs/2-n.jpg" alt="Image nro 2" width="150"/>
-<img src="/assets/imgs/3-n.jpg" alt="Image nro 3" width="150"/>
-<img src="/assets/imgs/4-n.jpg" alt="Image nro 4" width="150"/>
+<img src="/assets/imgs/n-1.jpg" alt="Image nro 1" width="150"/>
+<img src="/assets/imgs/n-2.jpg" alt="Image nro 2" width="150"/>
 
 ## Get started
 
